@@ -4,6 +4,7 @@ An autonomous fire-fighting robot designed to detect fire, navigate safely in it
 
 ---
 
+
 ## 🚀 Project Overview
 
 This project focuses on building a smart robotic system capable of:
@@ -15,6 +16,7 @@ This project focuses on building a smart robotic system capable of:
 The robot operates fully on battery power and performs all actions autonomously once powered on.
 
 ---
+
 
 ## 🛠 Components Used
 
@@ -40,6 +42,7 @@ The following components were used in the construction of this project:
 
 ---
 
+
 ## ⚙️ Working Principle
 
 1. **Fire Detection**  
@@ -61,6 +64,7 @@ The following components were used in the construction of this project:
 
 ---
 
+
 ## 🧪 Testing & Results
 
 The robot was tested using a small flame source (such as a candle).  
@@ -68,6 +72,10 @@ It successfully detected the fire, approached safely, stopped at the defined dis
 
 ---
 
+
+## 📁 Repository Structure
+
+```
 Fire-Fighting-Robot-Arduino/
 │
 ├── Arduino_Code/
@@ -85,9 +93,10 @@ Fire-Fighting-Robot-Arduino/
 │   └── circuit_diagram.png
 │
 └── README.md
-
+```
 
 ---
+
 
 ## 🎯 Applications
 
@@ -97,6 +106,7 @@ Fire-Fighting-Robot-Arduino/
 - Educational and academic robotics projects  
 
 ---
+
 
 ## 👤 Author
 
@@ -111,8 +121,7 @@ Feel free to connect or reach out for collaboration, feedback, or just to say hi
 
 ---
 
+
 ## ⭐ Support
 
 If you like this project, please ⭐ the repository on GitHub.
-## 📁 Repository Structure
-
